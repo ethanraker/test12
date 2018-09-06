@@ -1,3 +1,5 @@
 This is interesting
 
 Second file
+
+This is going to create some problems and conflicts.
