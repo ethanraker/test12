@@ -12,3 +12,5 @@ another change
 
 Yet another change!! This is for the new branch.
 
+Second change
+
