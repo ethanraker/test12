@@ -2,4 +2,8 @@ This is interesting
 
 Second file
 
+<<<<<<< HEAD
 This is definitely going to cause some conlifct
+=======
+This is going to create some problems and conflicts.
+>>>>>>> 00f5e4ae33f82de9000cc7767c762ccd7f3ca91b
